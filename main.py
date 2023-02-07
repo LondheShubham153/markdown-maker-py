@@ -16,11 +16,12 @@ with open(sys.argv[1], "r") as stream:
 
     mdFile.new_header(level=1, title=data['heading-level-1'])  # style is set 'atx' format by default.
 
-    # Create Topic Description Here
+    # Create a new Topic Description here by calling the function again
     
     # Topic 1
     add_topic_description(mdFile,data)
-    # Create tasks here
+
+    # Create tasks here  by calling the function again
 
     # Task 1
     add_task(mdFile, data)
