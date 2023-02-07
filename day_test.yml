@@ -1,0 +1,7 @@
+filename: "day_test"
+title: "Day Test heading"
+heading-level-1: "This is a topic"
+paragraph-level-1: "This is a description about the topic, great description."
+task-1: "Task-01"
+task-1-description-1: "Do this, and this, watch [this](https://youtube.com/@TrainWithShubham)"
+quote: "Happy Learning :)"
